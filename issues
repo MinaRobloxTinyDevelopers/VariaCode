@@ -1,0 +1,8 @@
+# Important for other OS apart from Windows
+
+Some of the commands created on VariaCode will give you an error
+if you use it on Linux or Mac
+The commands are:
+startfile()
+clear()
+
